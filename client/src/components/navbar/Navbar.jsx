@@ -22,7 +22,7 @@ function Navbar() {
 					<span>LamaEstate</span>
 				</Link>
 				<Link to="/">Home</Link>
-				<Link to="/link">Properties</Link>
+				<Link to="/list">Properties</Link>
 			</div>
 			<div className="right">
 				{currentUser ? (
